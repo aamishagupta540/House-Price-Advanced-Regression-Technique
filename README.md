@@ -27,9 +27,6 @@ All the required libraries are included in the file <code>requirements.txt</code
 
 
 ## ❤️**Owner**
-Made With ❤️ by [Sidharth kumar mohanty](www.linkedin.com/in/sidharth178)
+Made by [Amisha Gupta]
 
-## 😖Troubleshoot
-Any issues??? Feel free to ask.[Linkedin](www.linkedin.com/in/sidharth178)
 
-If you find this repo useful,don't forget to give a ⭐
