@@ -1,7 +1,7 @@
 # House-Prices-Advanced-Regression-Techniques
 
 <p align="center">
-  <img src="Images/houce_img.png" />
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2F6itLJS9BZ-B5gXPjM1AB_z-ZKVI%3D%2F0x0%3A3000x2000%2F1200x800%2Ffilters%3Afocal(1260x760%3A1740x1240)%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F65890203%2FiStock_1067331614.7.jpg&imgrefurl=https%3A%2F%2Fwww.thisoldhouse.com%2Fwindows%2F21015390%2Fplanning-window-placement&tbnid=8Gqd0uyeLyqvDM&vet=12ahUKEwiLt6yFqLP1AhXW_DgGHbEVCVUQMygFegUIARDlAQ..i&docid=Qh8AC4_St4h7TM&w=1200&h=800&itg=1&q=house%20image&ved=2ahUKEwiLt6yFqLP1AhXW_DgGHbEVCVUQMygFegUIARDlAQ" />
 </p>
 
 ## 📌**Objective**
@@ -26,7 +26,7 @@ All the required libraries are included in the file <code>requirements.txt</code
 - Optuna
 
 
-## ❤️**Owner**
-Made by [Amisha Gupta]
+## **Owner**
+Amisha Gupta
 
 
